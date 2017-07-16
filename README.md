@@ -34,6 +34,6 @@ This tutorial will combine previous skills to show the use of external hardware 
 
 ---
 #### Reference material:
-<a src="http://www.ti.com/lit/ug/slau208p/slau208p.pdf">MSP430x5xx Family User's Guide</a>
-<a src="http://www.ti.com/lit/ml/slau536/slau536.pdf">MSP430f5529 Launchpad Quick Guide</a>
-<a src="https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf">Arduino IDE Cheat Sheet</a>
+<a href="http://www.ti.com/lit/ug/slau208p/slau208p.pdf">MSP430x5xx Family User's Guide</a></br>
+<a href="http://www.ti.com/lit/ml/slau536/slau536.pdf">MSP430f5529 Launchpad Quick Guide</a></br>
+<a href="https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf">Arduino IDE Cheat Sheet</a>
