@@ -1,5 +1,7 @@
 # MSP430 Tutorials with Energia
+
 Designed by Breanna Higgins. To be used for tutorials within the Robotics and Automation Society at Rowan University
+
 ---
 
 ## Purpose
