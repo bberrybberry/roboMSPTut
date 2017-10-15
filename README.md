@@ -18,7 +18,7 @@ This tutorial outlines the basic usage of Energia for programming the MSP430. A 
 
 ## 2. General Purpose Input/Output (GPIO) and Interrupts: The Blink Improves
 
-This tutorial looks at the pin functions on the pinout of the MSP430f5529. Usage will cover onboard LEDs and buttons. A discussion will include polling vs interrupts. The LED will be controlled by user input on the board.
+This tutorial looks at the pin functions on the pinout of the MSP430G2553. Usage will cover onboard LEDs and buttons. A discussion will include polling vs interrupts. The LED will be controlled by user input on the board.
 
 ## 3. What is time: The Blink, Upgraded
 
