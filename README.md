@@ -34,6 +34,7 @@ This tutorial will combine previous skills to show the use of external hardware 
 
 ---
 #### Reference material:
+<a href="http://energia.nu/reference/">Energia Language Reference</a></br>
 <a href="http://www.ti.com/lit/ug/slau144j/slau144j.pdf">MSP430x2xx Family User's Guide</a></br>
 <a href="http://energia.nu/Guide_MSP430LaunchPad.html">MSP430 G2 Energia Reference</a></br>
 <a href="http://energia.nu/pin-maps/guide_msp430g2launchpad/">MSP430G2553 Pinout Reference</a></br>
