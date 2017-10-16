@@ -18,7 +18,7 @@ This tutorial outlines the basic usage of Energia for programming the MSP430. A 
 
 ## 2. General Purpose Input/Output (GPIO) and Interrupts: The Blink Improves
 
-This tutorial looks at the pin functions on the pinout of the MSP430f5529. Usage will cover onboard LEDs and buttons. A discussion will include polling vs interrupts. The LED will be controlled by user input on the board.
+This tutorial looks at the pin functions on the pinout of the MSP430G2553. Usage will cover onboard LEDs and buttons. A discussion will include polling vs interrupts. The LED will be controlled by user input on the board.
 
 ## 3. What is time: The Blink, Upgraded
 
@@ -34,6 +34,10 @@ This tutorial will combine previous skills to show the use of external hardware 
 
 ---
 #### Reference material:
+<a href="http://energia.nu/reference/">Energia Language Reference</a></br>
+<a href="http://www.ti.com/lit/ug/slau144j/slau144j.pdf">MSP430x2xx Family User's Guide</a></br>
+<a href="http://energia.nu/Guide_MSP430LaunchPad.html">MSP430 G2 Energia Reference</a></br>
+<a href="http://energia.nu/pin-maps/guide_msp430g2launchpad/">MSP430G2553 Pinout Reference</a></br>
 <a href="http://www.ti.com/lit/ug/slau208p/slau208p.pdf">MSP430x5xx Family User's Guide</a></br>
 <a href="http://www.ti.com/lit/ml/slau536/slau536.pdf">MSP430f5529 Launchpad Quick Guide</a></br>
 <a href="https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf">Arduino IDE Cheat Sheet</a>
